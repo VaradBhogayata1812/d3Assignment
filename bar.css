@@ -1,0 +1,8 @@
+svg {
+	background-color: #0080ff;
+	filter: brightness(1.6);
+}
+
+#townSlider {
+	width: 30%; /* Set the width to 100% to make the slider span the entire container */
+}
